@@ -69,7 +69,7 @@ public class Menu_driven_array_operations {
             return n;
         }
     }
-
+public class Main{
     public static void main(String[] args) {
         int [] a=new int[20];
         int n,i,ch,x,y,z;
@@ -147,4 +147,5 @@ public class Menu_driven_array_operations {
             while(result=='Y'||result=='y');
         }
     }
+}
 }
