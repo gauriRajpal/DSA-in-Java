@@ -145,7 +145,7 @@ public class Main{
                 }
             }
             while(result=='Y'||result=='y');
+            }
         }
     }
-}
 }
